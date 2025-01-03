@@ -1,0 +1,5 @@
+aiogram
+langchain-groq
+python-dotenv
+langchain
+langchain_groq
